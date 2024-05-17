@@ -1,0 +1,17 @@
+langchain==0.0.316
+pandas==2.1.1
+numpy==1.26.0
+python-dotenv==1.0.0
+pypdf==3.16.4
+docx2txt==0.8
+pinecone-client==2.2.4
+tiktoken==0.5.2
+deeplake==3.8.14
+openai==0.28.1
+uvicorn==0.23.2
+gunicorn==21.2.0
+fastapi==0.103.1
+pydantic==2.4.1
+pyjwt==2.8.0
+pymongo==4.6.1
+qdrant-client==1.7.0

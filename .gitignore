@@ -1,0 +1,6 @@
+data
+openaikey.txt
+scr/example_vectorstore
+**/__pycache__/
+db_credentials.json
+*.env
